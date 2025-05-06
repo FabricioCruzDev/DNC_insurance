@@ -1,4 +1,4 @@
-altair==5.5.0
+altair==4.2.2
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1733250440834/work
 attrs==25.3.0
 blinker==1.9.0
@@ -71,6 +71,7 @@ stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_173356
 streamlit==1.17.0
 threadpoolctl==3.6.0
 toml==0.10.2
+toolz==1.0.0
 tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1648827254365/work
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1733367359838/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1744302253/work
